@@ -5,10 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content
+  path: content/blog
   label: Blog
   create: documents
-  match: blog/*.md
+  match: "**/*.md"
   templates:
   - blog-post
 - type: directory
