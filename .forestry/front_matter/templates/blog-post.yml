@@ -31,3 +31,5 @@ fields:
       path: 
   label: Type
   hidden: true
+pages:
+- hello-world.md
