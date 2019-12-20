@@ -31,5 +31,3 @@ fields:
       path: 
   label: Type
   hidden: true
-pages:
-- content/blog/new-post.md
