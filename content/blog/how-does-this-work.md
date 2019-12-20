@@ -5,7 +5,7 @@ type: post
 draft: true
 
 ---
-Your new blog runs on a [JAMStack](https://jamstack.org/ "JAMStack"), the hottest way to blog in 2019 😎
+#### Your new blog runs on a [JAMStack](https://jamstack.org/ "JAMStack"), the hottest way to blog in 2019 😎 Congrats!
 
 JAMStack
 
