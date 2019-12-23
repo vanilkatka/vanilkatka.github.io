@@ -5,4 +5,4 @@ title = "Cool gift"
 type = "post"
 
 +++
-Quirky & unique present.
+Quirky & unique present.that stands out.
