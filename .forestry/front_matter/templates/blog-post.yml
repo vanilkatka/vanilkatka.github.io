@@ -31,3 +31,7 @@ fields:
       path: 
   label: Type
   hidden: true
+- name: Tag
+  type: tag_list
+  default: []
+  label: Tag
