@@ -4,4 +4,4 @@ title = "Cool gift!"
 type = "post"
 
 +++
-Quirky & unique present that stands out. [🎁](🎁 "🎁")
+Quirky & unique present that stands out. [🎁]
