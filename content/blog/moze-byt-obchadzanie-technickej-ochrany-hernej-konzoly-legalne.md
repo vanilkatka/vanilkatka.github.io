@@ -1,6 +1,6 @@
 +++
 date = 2014-02-16T21:35:11Z
-title = "Môže byť obchádzanie technickej ochrany hernej konzoly legálne?"
+title = "Môže byť obchádzanie technickej ochrany hernej konzoly legálne? 🕹️ "
 type = "post"
 
 +++
