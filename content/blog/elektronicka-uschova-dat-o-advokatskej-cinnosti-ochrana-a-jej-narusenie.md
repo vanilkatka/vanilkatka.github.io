@@ -4,7 +4,7 @@ title = "Elektronická úschova dát o advokátskej činnosti – ochrana a jej 
 type = "post"
 
 +++
-_publikované v: 👉_ [_Bulletin slovenskej advokácie_ ](https://www.sak.sk/web/sk/cms/sak/bulletin/archiv/proxy/list/form/rows/532/attr/name/preview "Slovenská advokátska komora")_5/2016. p. 27._
+_publikované v: 👉_ [_Bulletin slovenskej advokácie_](https://www.sak.sk/web/sk/cms/sak/bulletin/archiv/proxy/list/form/rows/532/attr/name/preview "Slovenská advokátska komora") _2016, No.5.. p. 27._
 
 Článok sa venuje listinám vyhotoveným advokátom pri poskytovaní právnych služieb v elektronickej forme, a to z hľadiska všeobecnej povinnosti mlčanlivosti a advokátovej obmedzenej edičnej povinnosti. Porovnáva procesný postup pri prehliadkach advokátskych kancelárií podľa českého trestného práva.
 
