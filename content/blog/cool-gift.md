@@ -14,4 +14,4 @@ Príspevok ďalej rozoberá právne základy prenosu osobných údajov do tretí
 
 Záverom článok načrtáva, ako sa navrhovaným nariadením o cezhraničnom prístupe k elektronickým dôkazom vytvára nový rámec priamej spolupráce medzi orgánmi činnými v trestnom konaní a poskytovateľmi služieb elektronických komunikácií.
 
-Článok je dostupný 👉 [Revue pro právo a technologie](https://journals.muni.cz/revue/article/view/11919/pdf "https://journals.muni.cz/revue/article/view/11919/pdf"). 2019, Vol. 10, No. 19, p. 41
+Publikované v: 👉 [Revue pro právo a technologie](https://journals.muni.cz/revue/article/view/11919/pdf "https://journals.muni.cz/revue/article/view/11919/pdf"). 2019, Vol. 10, No. 19, p. 41
