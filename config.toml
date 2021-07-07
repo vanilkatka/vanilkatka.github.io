@@ -1,8 +1,7 @@
 baseURL = "https://kesselova.sk/"
 languageCode = "en-us"
-title = "Katka Kesselová"
 theme = "journal"
-
+title = "Katka Kesselová"
 [params]
-  description = "This is my blog. Deal with it."
-  tagline = "This is my blog. Deal with it."
+description = "Raz tu z tohto bude blog."
+tagline = "Raz tu z tohto bude blog."
