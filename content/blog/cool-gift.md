@@ -1,6 +1,6 @@
 +++
 date = 2019-12-23T10:07:00Z
-title = "Cezhraničný prístup k elektronickým dôkazom v trestných veciach. Visí vo vzduchu európsky CLOUD Act?"
+title = "Cezhraničný prístup k elektronickým dôkazom v trestných veciach. Visí vo vzduchu európsky CLOUD Act? ☁️"
 type = "post"
 
 +++
