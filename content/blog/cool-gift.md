@@ -4,6 +4,8 @@ title = "Cezhraničný prístup k elektronickým dôkazom v trestných veciach. 
 type = "post"
 
 +++
+_publikované v: 👉_ [_Revue pro právo a technologie_](https://journals.muni.cz/revue/article/view/11919/pdf "https://journals.muni.cz/revue/article/view/11919/pdf")_. 2019, Vol. 10, No. 19, p. 41_
+
 Článok sa venuje regulácii cezhraničného prístupu k elektronickým dôkazom v trestných veciach. Popisuje, ako zákon CLOUD Act
 
 (i) vyriešil právnu otázku nastolenú v prípade Microsoft Ireland a znížil význam teritoriálneho umiestnenia dát v prospech kritéria držby a kontroly požadovaných údajov; 
@@ -13,5 +15,3 @@ type = "post"
 Príspevok ďalej rozoberá právne základy prenosu osobných údajov do tretích krajín podľa GDPR a vákuum, v ktorom sa poskytovatelia služieb budú pohybovať až do uzavretia vykonávacej dohody medzi Úniou a Spojenými štátmi. 
 
 Záverom článok načrtáva, ako sa navrhovaným nariadením o cezhraničnom prístupe k elektronickým dôkazom vytvára nový rámec priamej spolupráce medzi orgánmi činnými v trestnom konaní a poskytovateľmi služieb elektronických komunikácií.
-
-Publikované v: 👉 [Revue pro právo a technologie](https://journals.muni.cz/revue/article/view/11919/pdf "https://journals.muni.cz/revue/article/view/11919/pdf"). 2019, Vol. 10, No. 19, p. 41
