@@ -1,6 +1,5 @@
 +++
 date = 2013-04-22T20:39:14Z
-draft = true
 title = "Právo na prístup na internet a iné odlesky používania internetu a ľudské práva 🇺🇳 "
 type = "post"
 
