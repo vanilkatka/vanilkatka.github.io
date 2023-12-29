@@ -1,9 +1,10 @@
 +++
-date = 2013-04-22T20:39:14Z
+date = 2013-04-22T20:39:14.000Z
 title = "Právo na prístup na internet a iné odlesky používania internetu a ľudské práva 🇺🇳 "
 type = "post"
-
+_template = "blog_post"
 +++
+
 _publikované v: 👉_ [_Informačná spoločnosť a medzinárodné právo_](https://www.upjs.sk/public/media/1084/Zbornik_35.pdf "Univerzita Pavla Jozefa Šafárika v KošiciachPrávnická fakultaÚstav európskeho práva"). _Zborník príspevkov zo študentského sympózia. 2013._
 
 Úlohou ľudských práv je ochrana jednotlivca pred zneužitím alebo neprimeraným uplat-ňovaním moci zo strany štátu. Potreba uznania ľudského práva vzniká vtedy, keď je ohro-zená dôležitá hodnota. Ak sa diskutuje o nutnosti chrániť právo prístupu na internet, po-tom to znamená, že niečo nie je v poriadku.

@@ -1,9 +1,10 @@
 +++
-date = 2019-12-23T10:07:00Z
+date = 2019-12-23T10:07:00.000Z
 title = "Cezhraničný prístup k elektronickým dôkazom v trestných veciach. Visí vo vzduchu európsky CLOUD Act? ☁️"
 type = "post"
-
+_template = "blog_post"
 +++
+
 _publikované v: 👉_ [_Revue pro právo a technologie_](https://journals.muni.cz/revue/article/view/11919/pdf "https://journals.muni.cz/revue/article/view/11919/pdf")_. 2019, Vol. 10, No. 19, p. 41_
 
 Článok sa venuje regulácii cezhraničného prístupu k elektronickým dôkazom v trestných veciach. Popisuje, ako zákon CLOUD Act

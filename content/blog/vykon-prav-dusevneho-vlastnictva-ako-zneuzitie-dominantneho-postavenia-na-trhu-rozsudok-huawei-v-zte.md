@@ -1,9 +1,10 @@
 +++
-date = 2017-07-30T20:01:40Z
+date = 2017-07-30T20:01:40.000Z
 title = "Výkon práv duševného vlastníctva ako zneužitie dominantného postavenia na trhu – Rozsudok Huawei v ZTE 📱 "
 type = "post"
-
+_template = "blog_post"
 +++
+
 _publikované v: 👉_ [_Revue pro právo a technologie_](https://journals.muni.cz/revue/article/view/8166/pdf "Ústav práva a technologií Právnická fakulta, Masarykova univerzita")_. 2017, Vol. 8, No. 16, p. 43_
 
 Príspevok poskytuje stručný prehľad vplyvu súťažného práva na duševné vlastníctvo, predovšetkým na licencovanie predmetov priemyselného práva, ktoré sú súčasťou technického štandardu. Opísaný je postup tvorby štandardov a tzv. FRAND záväzky. 

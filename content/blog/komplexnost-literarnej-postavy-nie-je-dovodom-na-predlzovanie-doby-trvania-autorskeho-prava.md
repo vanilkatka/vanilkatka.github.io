@@ -1,9 +1,10 @@
 +++
-date = 2014-06-17T20:29:21Z
+date = 2014-06-17T20:29:21.000Z
 title = "„Komplexnosť“ literárnej postavy nie je dôvodom na predlžovanie doby trvania autorského práva 🕵🏻‍♂️ "
 type = "post"
-
+_template = "blog_post"
 +++
+
 _publikované na: 👉_ [MicroBlog Priateľov EISi](http://blog.eisionline.org/2014/06/17/%e2%80%9ekomplexnost%e2%80%9c-literarnej-postavy-nie-je-dovodom-na-predlzovanie-doby-trvania-autorskeho-prava/ "MicroBlog Priateľov EISi") 2014.
 
 Na motívy slávneho detektíva Sherlocka Holmesa vzniklo viacero súčasných odvodených diel, pozri audiovizuálne diela [BBC](http://www.bbc.co.uk/programmes/b018ttws), [CBS](http://www.cbs.com/shows/elementary/), [Warner Bros, ](http://sherlock-holmes-movie.warnerbros.com/dvd/index.html)ale aj [slovenský](http://www.djz.sk/?view=inscenacie&kam=14&id=490) muzikál. Dávame do pozornosti včerajší rozsudok, ktoré sa venuje dĺžke trvania autorského práva a argumentu o „plochých a komplexných“ literárnych hrdinoch.

@@ -1,9 +1,10 @@
 +++
-date = 2014-02-16T21:35:11Z
+date = 2014-02-16T21:35:11.000Z
 title = "Môže byť obchádzanie technickej ochrany hernej konzoly legálne? 🕹️ "
 type = "post"
-
+_template = "blog_post"
 +++
+
 _publikované na: 👉_ [MicroBlog Priateľov EISi](http://blog.eisionline.org/2014/02/16/obchadzanie-technickej-ochrany-hernej-konzoly/ "MicroBlog Priateľov EISi") 2014.
 
 Januárové rozhodnutie SDEÚ vo veci [C‑355/12](http://curia.europa.eu/juris/document/document.jsf?text=&docid=146686&pageIndex=0&doclang=SK&mode=req&dir=&occ=first&part=1&cid=93100) Nintendo proti PC Box sa zaoberá technickými opatreniami používanými výrobcami herných konzol za účelom prehrávania len „autorizovaných“ hier.
