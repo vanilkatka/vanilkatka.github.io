@@ -10,10 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tinacms": "^1.5.28"
+    "@tinacms/auth": "^1.1.0",
+    "next-tinacms-cloudinary": "^14.0.2",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "tinacms": "^2.8.2"
   },
   "devDependencies": {
-    "@tinacms/cli": "^1.5.39",
+    "@tinacms/cli": "^1.10.2",
     "@types/node": "^20.10.5"
   }
 }
